@@ -1,9 +1,11 @@
 # Olá, sou a Laís! 👋
 
 
-- 🔭 Trabalho como Técnica de Multimeios Didáticos (na E.M. Dioneta Batista de Freitas, em Nova Serrana/MG) e Desenvolvedora Web nas horas vagas
+- 🔭 Trabalho como Técnica de Multimeios Didáticos
+- 🎯 Meu objetivo é trabalhar como **Desenvolvedora FullStack**, utilizando **TypeScript** e **React**
 - 📚 Cursando Sistemas de Informação, pela PUC Minas Virtual
-- 🌱 Atualmente tenho focado meus estudos em **JavaScript** e **Angular**
+- 🌱 Atualmente tenho focado meus estudos em **Node.js** e **JavaScript**
+- 💡 Futuramente pretendo me aprofundar em *TypeScript* e *React*
 - 📫 Entre em contato comigo pelo e-mail: laislara86@gmail.com
 
 <br>
@@ -14,6 +16,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 60px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 50px;"/>
+</div>
+<div>
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
 
