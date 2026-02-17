@@ -2,8 +2,8 @@
 
 
 🔭 Trabalho como Técnica de Multimeios Didáticos<br>
-🎯 Meu objetivo é trabalhar como **Desenvolvedora FullStack** <br>
-📚 Cursando Sistemas de Informação, pela PUC Minas Virtual <br>
+🎯 Meu objetivo é trabalhar como **Desenvolvedora Back-end** <br>
+📚 Cursando Sistemas de Informação, pela PUC Minas Virtual (7/8)<br>
 🌱 Atualmente tenho focado meus estudos em **back-end** com **Java** <br>
 💡 Futuramente pretendo me aprofundar em *Spring Boot* e *Banco de dados* <br>
 📫 Entre em contato comigo pelo e-mail: laislara86@gmail.com
@@ -20,11 +20,10 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="height: 40px;"/>
 </div>
 <p></p>
-<div>
+<!-- <div>
 <a href="https://github.com/Lais-lfs">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais-lfs&layout=compact&langs_count=7&theme=dracula"/>
- 
-</div>
+ </div> -->
 <br>
 
 ## Redes Sociais
