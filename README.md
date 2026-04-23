@@ -22,10 +22,10 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="height: 40px;"/>
 </div>
 <p></p>
-<!-- <div>
+<div>
 <a href="https://github.com/Lais-lfs">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais-lfs&layout=compact&langs_count=7&theme=dracula"/>
- </div> -->
+ </div>
 <br>
 
 ## Redes Sociais
