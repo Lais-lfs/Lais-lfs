@@ -3,9 +3,8 @@
 
 🔭 Trabalho como Técnica de Multimeios Didáticos<br>
 🎯 Meu objetivo é trabalhar como **Desenvolvedora Back-end** <br>
-📚 Cursando Sistemas de Informação, pela PUC Minas Virtual (7/8)<br>
-🌱 Atualmente tenho focado meus estudos em **back-end** com **Java** <br>
-💡 Futuramente pretendo me aprofundar em *Spring Boot* e *Banco de dados* <br>
+📚 Cursando Sistemas de Informação, pela PUC Minas Virtual (8/8)<br>
+🌱 Atualmente tenho focado meus estudos em **back-end** com **Java**, **Spring Boot** e **Banco de dados** <br>
 📫 Entre em contato comigo pelo e-mail: laislara86@gmail.com
 
 <br>
